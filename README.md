@@ -4,4 +4,4 @@ Data and replication code for "Global warming, home runs, and the future of Amer
 
 
 
-This repository includes game log and event file data from (Retrosheet)[https://www.retrosheet.org/] as well as data on individual batted balls from (Statcast)[https://baseballsavant.mlb.com/csv-docs]. Please credit these organizations if you use any of this data for any reason. 
+This repository includes game log and event file data from [Retrosheet](https://www.retrosheet.org/) as well as data on individual batted balls from [Statcast](https://baseballsavant.mlb.com/csv-docs). Please credit these organizations if you use any of this data for any reason. 
